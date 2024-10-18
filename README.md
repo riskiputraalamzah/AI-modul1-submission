@@ -141,9 +141,9 @@
     </tr>
     <tr>
       <td>22</td>
-      <td>Nama Siswa 22</td>
-      <td>[Belum/Menunggu/OK]</td>
-      <td><a target="_blank" href="URL_Tugas_22">Link Tugas 22</a></td>
+      <td>kecap</td>
+      <td>[OK]</td>
+      <td><a target="_blank" href="https://docs.google.com/document/d/1e1XM2J_gfjB_wKipjF8Qzr-PgIX-tWsd4LMsUw4Yjn4/edit?usp=sharing">Link Tugas 22</a></td>
     </tr>
     <tr>
       <td>23</td>
