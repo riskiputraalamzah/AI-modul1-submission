@@ -51,9 +51,9 @@
     </tr>
     <tr>
       <td>7</td>
-      <td>Nama Siswa 7</td>
-      <td>[Belum/Menunggu/OK]</td>
-      <td><a target="_blank" href="URL_Tugas_7">Link Tugas 7</a></td>
+      <td>Ahmad Khulaifi</td>
+      <td>[OK]</td>
+      <td><a target="_blank" href="URL_Tugas_7">https://docs.google.com/document/d/1C9CRXVqXxFwE42gPm6A3cqF92zKq1qEYXT6260A1vok/edit?usp=sharing</a></td>
     </tr>
     <tr>
       <td>8</td>
