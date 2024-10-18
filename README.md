@@ -53,7 +53,7 @@
       <td>7</td>
       <td>Ahmad Khulaifi</td>
       <td>[OK]</td>
-      <td><a target="_blank" href="URL_Tugas_7">https://docs.google.com/document/d/1C9CRXVqXxFwE42gPm6A3cqF92zKq1qEYXT6260A1vok/edit?usp=sharing</a></td>
+      <td><a target="_blank" href="https://docs.google.com/document/d/1C9CRXVqXxFwE42gPm6A3cqF92zKq1qEYXT6260A1vok/edit?usp=sharing">Link Tugas</a></td>
     </tr>
     <tr>
       <td>8</td>
