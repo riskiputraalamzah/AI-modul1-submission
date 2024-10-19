@@ -135,9 +135,9 @@
     </tr>
   <tr>
       <td>21</td>
-      <td>Nama Siswa 21</td>
+      <td>Ferdyansyah Nur Saputra</td>
       <td>[Belum/Menunggu/OK]</td>
-      <td><a target="_blank" href="URL_Tugas_21">Link Tugas 21</a></td>
+      <td><a target="_blank" href="https://docs.google.com/document/d/1SQAi6eGbR7PEi5AhGkekflSGkUYYM6cuqYFME-M-axU/edit?usp=sharing">Link Tugas 21</a></td>
     </tr>
     <tr>
       <td>22</td>
